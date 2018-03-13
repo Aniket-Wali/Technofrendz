@@ -1,0 +1,12 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JAVA" injector-id="xml">
+      <display-name>LinearLayout/@context</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("context")).withNamespace(string().equalTo("http://schemas.android.com/tools")).withParent(xmlTag().withLocalName(string().equalTo("LinearLayout")))]]></place>
+    </injection>
+    <injection language="JAVA" injector-id="xml">
+      <display-name>manifest</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("manifest"))]]></place>
+    </injection>
+  </component>
+</application>
