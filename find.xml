@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'SnapShare'" />
-    <option name="defaultScopeName" value="Project 'SnapShare'" />
-    <option name="SEARCH_SCOPE" value="Project 'SnapShare'" />
+    <option name="customScope" value="Project 'PhotoBlog-Android-Blog-App'" />
+    <option name="defaultScopeName" value="Project 'PhotoBlog-Android-Blog-App'" />
+    <option name="SEARCH_SCOPE" value="Project 'PhotoBlog-Android-Blog-App'" />
   </component>
 </application>
