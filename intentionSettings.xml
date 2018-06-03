@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Declaration/Create Test" />
+    <ignoreAction name="Java/Declaration/Implement abstract class or interface" />
+    <ignoreAction name="Java/Declaration/Add Javadoc" />
+    <ignoreAction name="Java/Modifiers/Make Package-Private" />
+  </component>
+</application>
