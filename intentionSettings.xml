@@ -4,5 +4,6 @@
     <ignoreAction name="Java/Declaration/Implement abstract class or interface" />
     <ignoreAction name="Java/Declaration/Add Javadoc" />
     <ignoreAction name="Java/Modifiers/Make Package-Private" />
+    <ignoreAction name="Java/Imports/Add Single-Member Static Import" />
   </component>
 </application>
