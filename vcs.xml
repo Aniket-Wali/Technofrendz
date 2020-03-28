@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/Vishnu-Adda/bluetooth-listing.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/RustFisher/BluetoothScanner.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents" />
