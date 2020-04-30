@@ -6,5 +6,6 @@
     <ignoreAction name="Java/Modifiers/Make Package-Private" />
     <ignoreAction name="Java/Imports/Add Single-Member Static Import" />
     <ignoreAction name="Java/Declaration/Bind parameters to fields" />
+    <ignoreAction name="XML/Rearrange tag attributes" />
   </component>
 </application>
